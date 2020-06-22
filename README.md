@@ -1,5 +1,5 @@
 # FileProcessing
-##File processing using C
+## File processing using C
 
 ### 1. File I/O
 ### 2. Disk I/O cost (random vs sequential) 
