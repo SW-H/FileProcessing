@@ -6,4 +6,4 @@
 ### 3. Flash Device Driver (Simulating Flash Memory)
 ### 4. Flash Memory- Sector Mapping FTL
 ### 5. Record Insert,Delete
-### 6. Heap Sort
+### 6. [Heap Sort](6/heapsort.c)
